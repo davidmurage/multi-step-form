@@ -51,7 +51,7 @@ body {  font-family: "Ubuntu", sans-serif;
     justify-content: center;
   }
   .circle3 {  width: 40px;  height: 40px;
-    border-radius: 20px;
+    border-radius: 21px;
     background-color: rgba(0, 0, 0, 0);
     border: solid 1px white;  display: flex;
     justify-content: center;
@@ -130,7 +130,7 @@ body {  font-family: "Ubuntu", sans-serif;
     position: relative;
     background-color: rgba(0, 255, 51, 0);
     padding-left: 380px;  
-    padding-top: 73px;}
+    padding-top: 74px;}
   
   .buttonContainerStepTwo {  
     display: flex;
@@ -160,7 +160,7 @@ body {  font-family: "Ubuntu", sans-serif;
     border-radius: 5px;
     border: solid 1px rgba(0, 0, 255, 0);
     cursor: pointer;  
-    font-size: 16px;
+    font-size: 15px;
   }
   .nextStep:hover {  background-color: hsla(243, 100%, 62%, 0.423);}
   
